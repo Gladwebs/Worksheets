@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<div class="form-container" id="interactive-worksheets">
+    <!DOCTYPE html>
 <html>
 <head>
     <title>Master Page</title>
@@ -250,3 +251,5 @@
     </script>
 </body>
 </html>
+
+</div>
